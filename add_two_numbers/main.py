@@ -58,7 +58,7 @@ class Solution(object):
             result.push(digit)
 
             number //= 10
-            
+
     @staticmethod
     def __convert_number_to_list(number):
         result = LinkedList()
