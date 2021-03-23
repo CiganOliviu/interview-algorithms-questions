@@ -6,7 +6,7 @@ from main import Solution
 class IntegerToRomanTestCase(unittest.TestCase):
     def test_case_one(self):
         solution = Solution()
-        
+
         self.assertEqual(solution.convert_int_to_roman(3), 'III')
 
     def test_case_two(self):
