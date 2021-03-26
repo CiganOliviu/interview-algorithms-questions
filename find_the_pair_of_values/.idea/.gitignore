@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../:\workflow_git\interview-algorithms-questions\.idea/dataSources/
+/../../../../../:\workflow_git\interview-algorithms-questions\find_the_pair_of_values\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
